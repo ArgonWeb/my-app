@@ -15,63 +15,63 @@ const testimonials = [
   {
     id: 1,
     quote:
-      "The PDF guide was incredibly detailed and gave me the confidence to prepare for SIH. Thanks to this guide, I feel ready to tackle any challenge!",
+      "The website development service exceeded our expectations. The custom design and responsive layout are perfect for our needs. Highly recommended!",
     name: "Amit Sharma",
     rating: "⭐⭐⭐⭐⭐",
   },
   {
     id: 2,
     quote:
-      "The one-hour call with the SIH 2023 winner was eye-opening. The insights and tips shared were invaluable and gave me a clear path to follow for SIH 2024.",
+      "Our app development project was handled with utmost professionalism. The team delivered a user-friendly and high-performance app on time.",
     name: "Priya Rao",
     rating: "⭐⭐⭐⭐",
   },
   {
     id: 3,
     quote:
-      "The complete handholding service was a game-changer. From the initial stages to the final preparations, I received constant support and guidance that kept me on track.",
+      "The digital marketing service provided a significant boost to our online presence. The SEO and social media strategies were spot on!",
     name: "Vikram Patel",
     rating: "⭐⭐⭐⭐⭐",
   },
   {
     id: 4,
     quote:
-      "I highly recommend the PDF guide to anyone serious about winning SIH. It's packed with useful information and strategies that you won't find anywhere else.",
+      "I am thrilled with the website development service. The team was attentive to our needs and delivered a beautifully designed website.",
     name: "Neha Gupta",
     rating: "⭐⭐⭐⭐",
   },
   {
     id: 5,
     quote:
-      "The one-hour call was worth every penny. The personalized advice and encouragement helped me refine my approach and boosted my confidence.",
+      "The app development team was exceptional. They created a secure and high-performing app that our users love.",
     name: "Rajesh Kumar",
     rating: "⭐⭐⭐",
   },
   {
     id: 6,
     quote:
-      "The handholding service provided a structured and comprehensive approach to SIH preparation. The support I received was exceptional and made a huge difference.",
+      "The digital marketing strategies implemented by the team helped us reach a wider audience and improve our engagement rates.",
     name: "Sneha Menon",
     rating: "⭐⭐⭐⭐⭐",
   },
   {
     id: 7,
     quote:
-      "This PDF guide is a must-have for anyone aiming to win SIH. It's clear, concise, and covers everything you need to know.",
+      "The website development service provided a seamless experience. The final product was exactly what we envisioned.",
     name: "Anil Joshi",
     rating: "⭐⭐⭐⭐",
   },
   {
     id: 8,
     quote:
-      "The one-hour call provided me with the clarity and direction I needed. The advice given was practical and tailored to my needs.",
+      "Our app development project was a success thanks to the team's expertise. They delivered on time and exceeded our expectations.",
     name: "Kavita Singh",
     rating: "⭐⭐⭐⭐⭐",
   },
   {
     id: 9,
     quote:
-      "The complete handholding service was exceptional. Having a mentor who has already won SIH made all the difference in my preparation.",
+      "The digital marketing service was top-notch. The team's approach to SEO and content marketing significantly increased our online visibility.",
     name: "Suresh Iyer",
     rating: "⭐⭐⭐",
   },
